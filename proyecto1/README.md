@@ -4,8 +4,8 @@ Este proyecto utiliza Apache Spark para analizar y predecir retrasos en vuelos u
 
 ## Archivos incluidos
 
-- **`spark_flight_delay_prediction.ipynb`**: Notebook que contiene el preprocesamiento, análisis y modelo predictivo.
-- **`flights`**: Dataset utilizado en el análisis.
+- **`spark_flight_delay_prediction.ipynb`**: Notebook que contiene el preprocesamiento, análisis y modelo predictivo. Así como una guía explicativa de los pasos realizados a lo largo de todo el proyecto.
+- **`flights.csv`**: Dataset utilizado en el análisis.
 
 ## Requisitos previos
 
@@ -15,5 +15,5 @@ Para ejecutar el proyecto necesitas:
 2. **Apache Spark**: Instalado y configurado en tu sistema.
 3. **Bibliotecas adicionales**: Instálalas con el siguiente comando:
    ```bash
-   pip install pandas pyspark matplotlib
+   pip install pyspark 
 
