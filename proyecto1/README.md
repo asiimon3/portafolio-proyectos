@@ -2,6 +2,10 @@
 
 Este proyecto utiliza Apache Spark para analizar y predecir retrasos en vuelos utilizando el dataset de historial de vuelos. La finalidad es demostrar cómo manejar grandes volúmenes de datos y aplicar técnicas de aprendizaje automático para resolver problemas reales.
 
+El análisis se llevó a cabo en un entorno de **Google Cloud**, utilizando:
+- Un **bucket** de Google Cloud Storage para almacenar el dataset de vuelos.
+- Un **cluster** de Apache Spark creado en Google Cloud Dataproc para realizar el procesamiento distribuido de los datos.
+  
 ## Archivos incluidos
 
 - **`spark_flight_delay_prediction.ipynb`**: Notebook que contiene el preprocesamiento, análisis y modelo predictivo. Así como una guía explicativa de los pasos realizados a lo largo de todo el proyecto.
