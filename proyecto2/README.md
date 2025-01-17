@@ -7,7 +7,7 @@ Demostrar cómo diferentes técnicas de mejora de imágenes pueden aplicarse a e
 
 ## Archivos Incluidos
 - `image_processing_notebook.ipynb`: Notebook que contiene el flujo completo del proyecto, incluyendo la implementación de las técnicas de mejora, cálculo y análisis de las métricas de calidad y visualización de los resultados.
-- `The Dark Face`: datasets de imágenes de baja iluminación procedente de la plataforma Kaggle.
+- `image`: datasets (`The Dark Face`) de imágenes de baja iluminación procedente de la plataforma Kaggle.
 - `metrics_table_with_multiplication.csv`: Tabla generada que contiene las métricas para cada técnica aplicada.
 
   ## Requisitos Previos
