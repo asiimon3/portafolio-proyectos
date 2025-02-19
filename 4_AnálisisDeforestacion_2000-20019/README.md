@@ -4,7 +4,7 @@ En este proyecto se analiza el aumento de la deforestación en el Bosque Naciona
 
 ## Objetivo
 
-Estudiar diferentes técnicas de procesamiento de imágenes para realizar una segmentación apropiada a las condiciones presentes en las imágenes del Boseque Nacional Jamanxim, y comprobar análiticamente el deterioro.
+Estudiar diferentes técnicas de procesamiento de imágenes para realizar una segmentación apropiada a las condiciones presentes en las imágenes del Bosque Nacional Jamanxim, y comprobar analíticamente el deterioro.
 
 ## Archivos Incluidos
 
