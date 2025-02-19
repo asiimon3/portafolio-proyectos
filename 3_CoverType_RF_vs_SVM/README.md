@@ -4,7 +4,7 @@ Este proyecto analiza y compara dos modelos de clasificación, Random Forest y S
   
 ## Archivos incluidos
 
-- **`RF.vs.SVM (CoverType).ipynb`**: Notebook que contiene el preprocesamiento, análisis y modelo predictivo. Así como una guía explicativa de los pasos realizados a lo largo de todo el proyecto.
+- **`RF.vs.SVM (CoverType).ipynb`**: Notebook que contiene el preprocesamiento, análisis y modelo predictivo. Así como una guía explicativa de los pasos realizados a lo largo de todo el estudio y conclusiones del mismo.
 
 ## Requisitos previos
 
