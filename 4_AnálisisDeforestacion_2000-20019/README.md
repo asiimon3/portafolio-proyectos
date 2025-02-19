@@ -1,4 +1,4 @@
-# Análisis de Deforestación en el Bosque Naciona Jamanxim (Brasil)
+# Análisis de Deforestación en el Bosque Nacional Jamanxim (Brasil)
 
 En este proyeccto se analiza el aumento de la deforestación en el Bosque Nacional Jamanxim (Brasil) entre los años 2001 al 2019, a partir de imágenes satelitales. Con la implentención de un pipeline en varias etapas para realizar el procesamiento adecuado de las imágenes, tratando la eliminación de interferencias, segmentación de deforestación y calculo del área afectada.
 
